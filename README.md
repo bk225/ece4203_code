@@ -1,1 +1,3 @@
 # ece4203_code
+
+This repository is out of data, please use ece4203_code_2027 for the latest version...
